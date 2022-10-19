@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-Bu repo [kodluyoruz] https://kodluyoruz.org/tr/kodluyoruz/ **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo
+Bu repo [kodluyoruz] (https://kodluyoruz.org/tr/kodluyoruz/) **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo
 
 # Installation
 
@@ -14,10 +14,10 @@ Projeyi cloneladıktan sonra Xcode programınızda açın.
 
 ![tugbairmak](https://github.com/tgbirmak/kodluyoruzilkrepo/blob/main/ss.png)
 
-#Contributing
+# Contributing
 
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+# License
 
-[MIT License] https://choosealicense.com/licenses/mit/
+[MIT License] (https://choosealicense.com/licenses/mit/)
