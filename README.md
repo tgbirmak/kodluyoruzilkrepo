@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-Bu repo (kodluyoruz)[https://kodluyoruz.org/tr/kodluyoruz/] **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo
+Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo **[EFF](https://eff.org)**.
 
 # Installation
 
