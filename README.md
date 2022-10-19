@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-Bu repo [kodluyoruz] (https://kodluyoruz.org/tr/kodluyoruz/) **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo
+Bu repo (kodluyoruz)[https://kodluyoruz.org/tr/kodluyoruz/] **Kodluyoruz Eğitimi** kapsamında açtığımız ilk repo
 
 # Installation
 
@@ -20,4 +20,4 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 
 # License
 
-[MIT License] (https://choosealicense.com/licenses/mit/)
+(MIT License) [https://choosealicense.com/licenses/mit/]
